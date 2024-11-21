@@ -27,13 +27,13 @@ I am a seasoned geoscientist with over 15 years of experience in rock physics, q
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
 
-# My Other Projects
+## My Other Projects
 
 - **[Python for rock physicist - Chapter 1](/Chapter_1.html)** 
 
 - **[Python for rock physicist - Chapter 2](/Chapter_2.html)**
 
-# My CV
+## My CV
 
 - **[Here](/My_CV.html)** is my CV
 
